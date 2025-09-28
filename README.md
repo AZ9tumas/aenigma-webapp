@@ -42,10 +42,6 @@ This project is built using modern, efficient, and scalable technologies.
     -   **Firebase Functions:** For running server-side logic for AI-personalization.
 -   **Offline Capability:** Progressive Web App (PWA)
 
-## ⚙️ Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
 ## 🖼️ Screenshots
 
 <!-- Add screenshots of your application here -->
